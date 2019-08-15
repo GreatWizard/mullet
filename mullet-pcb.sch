@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:mullet-pcb-cache
-EELAYER 29 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -3371,7 +3371,7 @@ Wire Wire Line
 	1800 5400 1550 5400
 Connection ~ 1800 5200
 $Comp
-L ai03-locallib:PRTR5V0U2X U2
+L mullet-pcb-rescue:PRTR5V0U2X-ai03-locallib U2
 U 1 1 5C8061FE
 P 2250 4750
 F 0 "U2" H 2250 5047 60  0000 C CNN
