@@ -1,3 +1,3 @@
 # mullet case
 
-![](mullet-case.jpg)
+![](./images/mullet-case.jpg)
