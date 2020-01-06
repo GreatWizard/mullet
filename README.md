@@ -3,7 +3,7 @@ The gerber files included are everything needed to have this pcb printed. Howeve
 
 This should eventually be able to be opened with the next stable KiCad release, but for now it can only be opened and edited with nightly builds.
 
-***When using a KiCad nightly build please take caution with any other projects that need to remain compatible with older builds of KiCad. Saving them with a nightly build will make them incompatible with past stable builds.***
+***When using a KiCad nightly build please take caution with any other projects that need to remain compatible with older builds of KiCad. Saving them with a nightly build will make them incompatible with past stable builds because of new features not yet implemented.***
 
 ![](https://i.imgur.com/4ngeYQD.png)
 ![](./images/topRender.jpg)
